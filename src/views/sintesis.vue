@@ -2,10 +2,10 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 En este componente se abordan los aspectos fundamentales sobre la clasificación, composición y conservación de frutas y verduras, destacando su importancia para garantizar la seguridad alimentaria. Se profundiza en la identificación de los ingredientes y las mejores prácticas de higiene para la preparación de conservas, haciendo énfasis en el control de factores como la temperatura y la humedad, que son determinantes para prevenir el deterioro o la contaminación de los alimentos.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-12.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
