@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Generalidades, ingredientes y aspectos higiénicos en la preparación de conservas CF01**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/93610220_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/#/](https://ecoredsena-atlantico.github.io/93610220_PREPARACION_DE_CONSERVAS_DE_FRUTAS_Y_VERDURAS/#/)
 
 #
 
