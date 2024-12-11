@@ -12,49 +12,57 @@
       .col-lg-12.mb-2
         p Este material de estudio te ayudará a comprender las características, beneficios y clasificación de las frutas y verduras, esenciales para una alimentación saludable y equilibrada. Aprenderás sobre sus propiedades nutricionales, su papel en la prevención de enfermedades y cómo incorporarlas de forma efectiva a tu dieta. En este componente se exponen los temas relacionados con las características, clasificación, propiedades y componentes de las frutas y verduras, además se describen las sustancias bioactivas (antioxidantes) y los mecanismos que alteran la calidad de estos alimentos.
 
-      .col-md-6.col-lg-5.mb-2
-        figure
-          img(src='@/assets/curso/temas/tema1/img_2.png', alt='Texto que describa la imagen').mx-auto
-      .col-lg-7.mb-2
-        .div.mb-3(data-aos="fade-right")
-          h3.bgr_3.position-relative Importancia de las frutas y verduras para la salud
-            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+    .bg_img_1
+      .row.justify-content-center.align-items-center
+        .col-md-6.col-lg-5.mb-2
+          figure
+            img(src='@/assets/curso/temas/tema1/img_2.png', alt='Texto que describa la imagen').mx-auto
+        .col-lg-7.mb-2
+          .div.mb-3(data-aos="fade-right")
+            h3.bgr_3.position-relative Importancia de las frutas y verduras para la salud
+              img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
-        p.mb-2 Las frutas y verduras son alimentos esenciales que proporcionan numerosos beneficios para nuestra salud. Son ricas en vitaminas, minerales, fibra y antioxidantes que ayudan a mantener un cuerpo sano y a prevenir enfermedades.
-        p Su alto contenido de fibra mejora la digestión, regula los niveles de colesterol y previene el estreñimiento. Las frutas y verduras también son bajas en calorías y ricas en agua, lo que las convierte en una opción ideal para controlar el peso y mantener una buena hidratación. 
-       
-        .cajon.bg-1.g_18.mb-3
-          .row.mb-4
-            .col-lg-12.p-4.ps-5 
-              p Además, poseen antioxidantes que protegen nuestras células del daño causado por los radicales libres, ayudando a prevenir enfermedades como el cáncer y las enfermedades cardíacas. 
+          p.mb-2 Las frutas y verduras son alimentos esenciales que proporcionan numerosos beneficios para nuestra salud. Son ricas en vitaminas, minerales, fibra y antioxidantes que ayudan a mantener un cuerpo sano y a prevenir enfermedades.
+          p Su alto contenido de fibra mejora la digestión, regula los niveles de colesterol y previene el estreñimiento. Las frutas y verduras también son bajas en calorías y ricas en agua, lo que las convierte en una opción ideal para controlar el peso y mantener una buena hidratación. 
         
-    
+          .cajon.bg-1.g_18.mb-3
+            .row.mb-4
+              .col-lg-12.p-4.ps-5 
+                p Además, poseen antioxidantes que protegen nuestras células del daño causado por los radicales libres, ayudando a prevenir enfermedades como el cáncer y las enfermedades cardíacas. 
+        
     Separador
 
     #t_1_1.titulo-segundo
       .h2(data-aos="fade-right") 1.1 Diferencia entre frutas y verduras
 
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.mb-2
-        p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Slos elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
+    .bg_img_2
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12.mb-2
+          p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Slos elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
 
-      .col-md-6.col-lg-10.mb-2
-        figure
-          img(src='@/assets/curso/temas/tema1/img_4.png', alt='Texto que describa la imagen').mx-auto
+        .col-md-6.col-lg-10.mb-2
+          figure
+            img(src='@/assets/curso/temas/tema1/img_4.png', alt='Texto que describa la imagen').mx-auto
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-md-6.col-lg-4.mb-2.bg-03.p-4.h-100
-        figure
-          img(src='@/assets/curso/temas/tema1/img_5.png', alt='Texto que describa la imagen').mx-auto
-      .col-md-12.col-lg-5.mb-2.bg-04.p-3.h-100
-        p.mb-2 Su función es la de proteger y dispersar las semillas para la reproducción de la planta. Por lo general, son dulces o ácidas y tienen una textura jugosa. 
-        p.mb-2 Las verduras, por otro lado, son otras partes de la planta, como las raíces, los tallos, las hojas y las flores. No tienen la función de reproducir la planta, pero aportan nutrientes esenciales para su crecimiento y desarrollo.
-        p Aunque algunas frutas como los tomates, los pepinos o las calabazas se consumen como verduras, en realidad son frutos que se han adaptado para ser utilizados en platos salados. 
+    .row.justify-content-center.align-items-center.mb-0
+      .tarjeta--container.row.mb-5.justify-content-center
+        .col-md-6.col-lg-4.tarjeta.bg-03.p-5
+          .row.justify-content-center.mb-4
+            .col-12
+              figure
+                img(src='@/assets/curso/temas/tema1/img_5.png', alt='Texto que describa la imagen').mx-auto
 
-      .col-md-5.col-lg-3.mb-2
-        figure
-          img(src='@/assets/curso/temas/tema1/img_6.png', alt='Texto que describa la imagen').mx-auto
+        .col-md-12.col-lg-5.tarjeta.bg-04.p-5
+          p.mb-2 Su función es la de proteger y dispersar las semillas para la reproducción de la planta. Por lo general, son dulces o ácidas y tienen una textura jugosa. 
+          p.mb-2 Las verduras, por otro lado, son otras partes de la planta, como las raíces, los tallos, las hojas y las flores. No tienen la función de reproducir la planta, pero aportan nutrientes esenciales para su crecimiento y desarrollo.
+          p Aunque algunas frutas como los tomates, los pepinos o las calabazas se consumen como verduras, en realidad son frutos que se han adaptado para ser utilizados en platos salados. 
 
+        .col-md-5.col-lg-3.tarjeta
+          .row.justify-content-center.mb-4
+            .col-12
+              figure
+                img(src='@/assets/curso/temas/tema1/img_6.png', alt='Texto que describa la imagen').mx-auto
+            
     Separador
 
     .row.justify-content-center.align-items-center.mb-3
@@ -115,96 +123,96 @@
       .div.mb-3(data-aos="fade-right")
         h3.text-center Otras clasificaciones para las frutas son las siguientes: 
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-md-6.col-lg-4
-        figure(data-aos="zoom-in")
-          img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt").img400.m-auto
-      .col-lg-8
-        SlyderF.custom(columnas="col-lg-6 col-xl-6")
-          .tarjeta.tarjeta--slyder.p-4
-            .row.justify-content-center.align-items-center.mb-3
-              .col-4.mb-3
-                img(src="@/assets/curso/temas/tema1/img_9.svg", alt="alt").img100.m-auto
-              h4.text-center Frutas cítricas
-              p.text-center.mb-0 Son las que contienen ácido cítrico como el limón. 
+    .bg_img_3
+      .row.justify-content-center.align-items-center.mb-5
+        .col-md-6.col-lg-4
+          figure(data-aos="zoom-in")
+            img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt").img400.m-auto
+        .col-lg-8
+          SlyderF.custom(columnas="col-lg-6 col-xl-6")
+            .tarjeta.tarjeta--slyder.bg-white.p-4
+              .row.justify-content-center.align-items-center.mb-3
+                .col-4.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_9.svg", alt="alt").img100.m-auto
+                h4.text-center Frutas cítricas
+                p.text-center.mb-0 Son las que contienen ácido cítrico como el limón. 
 
-          .tarjeta.tarjeta--slyder.p-4
-            .row.justify-content-center.mb-3
-              .col-4.mb-3
-                img(src="@/assets/curso/temas/tema1/img_10.svg", alt="alt").img100.m-auto
-              h4.text-center Frutas tropicales
-              p.text-center.mb-0 Son aquellas provenientes de climas tropicales y que deben mantenerse a temperaturas por encima de los 4 °C, de lo contrario pueden echarse a perder. 
+            .tarjeta.tarjeta--slyder.bg-white.p-4
+              .row.justify-content-center.mb-3
+                .col-4.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_10.svg", alt="alt").img100.m-auto
+                h4.text-center Frutas tropicales
+                p.text-center.mb-0 Son aquellas provenientes de climas tropicales y que deben mantenerse a temperaturas por encima de los 4 °C, de lo contrario pueden echarse a perder. 
 
-          .tarjeta.tarjeta--slyder.p-4
-            .row.justify-content-center.mb-3
-              .col-4.mb-3
-                img(src="@/assets/curso/temas/tema1/img_11.svg", alt="alt").img100.m-auto
-              h4.text-center Frutas del bosque
-              p.text-center.mb-0 Son las que crecen en zonas boscosas como por ejemplo las moras o las frambuesas.
+            .tarjeta.tarjeta--slyder.bg-white.p-4
+              .row.justify-content-center.mb-3
+                .col-4.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_11.svg", alt="alt").img100.m-auto
+                h4.text-center Frutas del bosque
+                p.text-center.mb-0 Son las que crecen en zonas boscosas como por ejemplo las moras o las frambuesas.
 
-          .tarjeta.tarjeta--slyder.p-4
-            .row.justify-content-center.mb-3
-              .col-4.mb-3
-                img(src="@/assets/curso/temas/tema1/img_12.svg", alt="alt").img100.m-auto
-              h4.text-center Frutas secos
-              p.text-center.mb-0 Correspondiente a las frutas que naturalmente tienen un nivel inferior al 50% de agua y son ricos en grasas y proteínas, por lo cual aportan mucha energía a quienes los consumen.
+            .tarjeta.tarjeta--slyder.bg-white.p-4
+              .row.justify-content-center.mb-3
+                .col-4.mb-3
+                  img(src="@/assets/curso/temas/tema1/img_12.svg", alt="alt").img100.m-auto
+                h4.text-center Frutas secos
+                p.text-center.mb-0 Correspondiente a las frutas que naturalmente tienen un nivel inferior al 50% de agua y son ricos en grasas y proteínas, por lo cual aportan mucha energía a quienes los consumen.
 
-    Separador
+    .bg_img_4
+      .row.justify-content-center.align-items-center.mb-3
+        .div.mb-3(data-aos="fade-right")
+          h3.bgr_3.position-relative Clasificación de verduras
+            img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
-    .row.justify-content-center.align-items-center.mb-3
-      .div.mb-3(data-aos="fade-right")
-        h3.bgr_3.position-relative Clasificación de verduras
-          img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
+      .row.justify-content-center.align-items-center.mb-0
+        .col-lg-12.mb-3
+          figure
+            img(src='@/assets/curso/temas/tema1/img_14.png', alt='Texto que describa la imagen').mx-auto
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-lg-12.mb-3
-        figure
-          img(src='@/assets/curso/temas/tema1/img_14.png', alt='Texto que describa la imagen').mx-auto
+        .col-lg-12
+          p Se entiende por verduras aquellas partes comestibles de las plantas; la forma en que estas se clasifican está determinada según la parte de la planta a la que corresponden. A continuación, se encuentra un listado de las clasificaciones y su respectiva descripción:
 
-      .col-lg-12
-        p Se entiende por verduras aquellas partes comestibles de las plantas; la forma en que estas se clasifican está determinada según la parte de la planta a la que corresponden. A continuación, se encuentra un listado de las clasificaciones y su respectiva descripción:
-
-      .col-md-12.col-lg-10.mb-2
-        .titulo-sexto.bg-11.mb-4
-          h5 Tabla 1. 
-          span.text-dark Clasificación de verduras
-        
-        .tabla-a.mb-0
-          table
-            caption Nota: Sena (2024).
-            thead
-              th Clasificación
-              th Descripción
-              th Ejemplo
-            tbody
-              tr
-                td.bg-table-02 Hoja
-                td.bg-table-02 Se conocen como las verduras cuyas hojas son comestibles.
-                td.bg-table-02 Lechuga, espinaca, col rizada
-              tr
-                td.bg-table-01 Raíz
-                td.bg-table-01 Corresponden a la parte de la planta que crece bajo la tierra y que se puede comer, por lo general son ricas en carbohidratos y azúcares.
-                td.bg-table-01 Zanahoria, remolacha, nabo
-              tr
-                td.bg-table-02 Tallo
-                td.bg-table-02 Estos se componen por el tallo y la raíz de la planta.
-                td.bg-table-02 Apio, espárrago
-              tr
-                td.bg-table-01 Flor
-                td.bg-table-01 Son aquellas que se consumen principalmente por sus flores, que son la parte de la planta que se desarrolla antes de ser fertilizada.
-                td.bg-table-01 Coliflor, brócoli, alcachofa
-              tr
-                td.bg-table-02 Bulbo
-                td.bg-table-02 Estos hacen parte de ciertas plantas y se conforman por un tallo cubierto por escamas comestibles.
-                td.bg-table-02 Cebolla, ajo
-              tr
-                td.bg-table-01 Fruto
-                td.bg-table-01 Aunque se consumen como verduras, en realidad son frutos que se han adaptado para ser utilizados en platos salados.
-                td.bg-table-01 Tomate, pepino, calabaza
-              tr
-                td.bg-table-02 Tubérculo
-                td.bg-table-02 Corresponden a la parte de la planta que cumple la función de reservar temporalmente las sustancias que esta necesita para su supervivencia tales como nutrientes y carbohidratos.
-                td.bg-table-02 Papa, camote
+        .col-md-12.col-lg-10.mb-2
+          .titulo-sexto.bg-11.mb-4
+            h5 Tabla 1. 
+            span.text-dark Clasificación de verduras
+          
+          .tabla-a.mb-0
+            table
+              caption Nota: Sena (2024).
+              thead
+                th Clasificación
+                th Descripción
+                th Ejemplo
+              tbody
+                tr
+                  td.bg-table-02 Hoja
+                  td.bg-table-02 Se conocen como las verduras cuyas hojas son comestibles.
+                  td.bg-table-02 Lechuga, espinaca, col rizada
+                tr
+                  td.bg-table-01 Raíz
+                  td.bg-table-01 Corresponden a la parte de la planta que crece bajo la tierra y que se puede comer, por lo general son ricas en carbohidratos y azúcares.
+                  td.bg-table-01 Zanahoria, remolacha, nabo
+                tr
+                  td.bg-table-02 Tallo
+                  td.bg-table-02 Estos se componen por el tallo y la raíz de la planta.
+                  td.bg-table-02 Apio, espárrago
+                tr
+                  td.bg-table-01 Flor
+                  td.bg-table-01 Son aquellas que se consumen principalmente por sus flores, que son la parte de la planta que se desarrolla antes de ser fertilizada.
+                  td.bg-table-01 Coliflor, brócoli, alcachofa
+                tr
+                  td.bg-table-02 Bulbo
+                  td.bg-table-02 Estos hacen parte de ciertas plantas y se conforman por un tallo cubierto por escamas comestibles.
+                  td.bg-table-02 Cebolla, ajo
+                tr
+                  td.bg-table-01 Fruto
+                  td.bg-table-01 Aunque se consumen como verduras, en realidad son frutos que se han adaptado para ser utilizados en platos salados.
+                  td.bg-table-01 Tomate, pepino, calabaza
+                tr
+                  td.bg-table-02 Tubérculo
+                  td.bg-table-02 Corresponden a la parte de la planta que cumple la función de reservar temporalmente las sustancias que esta necesita para su supervivencia tales como nutrientes y carbohidratos.
+                  td.bg-table-02 Papa, camote
 
     Separador
 
@@ -273,33 +281,35 @@
         h3.bgr_3.position-relative Importancia de las vitaminas
           img.pst(src='@/assets/curso/temas/tema1/img_3.svg', alt='')
 
+    .bg_img_5
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-12.mb-3
+          p Las vitaminas son sustancias que el cuerpo necesita para funcionar apropiadamente, sin embargo no tiene la capacidad de sintetizarlas por sí mismo, por lo tanto necesita de fuentes externas para poder obtenerlas. 
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-lg-12.mb-3
-        p Las vitaminas son sustancias que el cuerpo necesita para funcionar apropiadamente, sin embargo no tiene la capacidad de sintetizarlas por sí mismo, por lo tanto necesita de fuentes externas para poder obtenerlas. 
+        .col-md-6.col-lg-5.mb-3
+          figure
+            img(src='@/assets/curso/temas/tema1/img_18.png', alt='Texto que describa la imagen').mx-auto
 
-      .col-md-6.col-lg-5.mb-3
-        figure
-          img(src='@/assets/curso/temas/tema1/img_18.png', alt='Texto que describa la imagen').mx-auto
+        .col-lg-7.mb-3
+          p.mb-2 Las frutas y verduras son una buena fuente de vitaminas, en ellas se encuentra una variedad de estas sustancias que cumplen diversas funciones en el cuerpo humano tales como: prevenir enfermedades y deficiencias corporales, también sirven para efectuar diferentes reacciones metabólicas del organismo.
+          p Entre las vitaminas más importantes está la vitamina C, esta se encuentra contenida de manera natural en la mayoría de las frutas y verduras, especialmente aquellas del grupo de los cítricos. Después están las vitaminas del complejo B, que corresponden a un grupo de vitaminas diferentes que desempeñan importantes funciones del cuerpo desde complementar los ácidos nucleicos, desintoxicar el organismo, participar en las reacciones que generan energía, sintetizar proteínas, grasas y carbohidratos, entre otras.
 
-      .col-lg-7.mb-3
-        p.mb-2 Las frutas y verduras son una buena fuente de vitaminas, en ellas se encuentra una variedad de estas sustancias que cumplen diversas funciones en el cuerpo humano tales como: prevenir enfermedades y deficiencias corporales, también sirven para efectuar diferentes reacciones metabólicas del organismo.
-        p Entre las vitaminas más importantes está la vitamina C, esta se encuentra contenida de manera natural en la mayoría de las frutas y verduras, especialmente aquellas del grupo de los cítricos. Después están las vitaminas del complejo B, que corresponden a un grupo de vitaminas diferentes que desempeñan importantes funciones del cuerpo desde complementar los ácidos nucleicos, desintoxicar el organismo, participar en las reacciones que generan energía, sintetizar proteínas, grasas y carbohidratos, entre otras.
+        .col-lg-12       
+          .cajon.bg-1.g_18.mb-3
+            .row.mb-4
+              .col-lg-12.p-4.ps-5 
+                p También está la vitamina A, que es la que se encarga de generar pigmentos que la retina ocular de las personas necesita para funcionar adecuadamente, por lo cual es de gran importancia para tener una buena visión; esa vitamina se encuentra en alimentos como las zanahorias, el mango y la lechuga. Finamente está la vitamina E presente en vegetales de hoja verde tales como: las espinacas y el brócoli; esta vitamina es de un gran beneficio para el sistema circulatorio y adicional a eso tiene propiedades antioxidantes que ayudan a la prevención de algunas enfermedades como el párkinson. 
+    
+    .bg_img_6
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-8.mb-2
+          .titulo-sexto.bg-11.mb-4
+            h5 Figura 1. 
+            span.text-dark Vitaminas en las frutas y verduras 
 
-      .col-lg-12       
-       .cajon.bg-1.g_18.mb-3
-         .row.mb-4
-           .col-lg-12.p-4.ps-5 
-             p También está la vitamina A, que es la que se encarga de generar pigmentos que la retina ocular de las personas necesita para funcionar adecuadamente, por lo cual es de gran importancia para tener una buena visión; esa vitamina se encuentra en alimentos como las zanahorias, el mango y la lechuga. Finamente está la vitamina E presente en vegetales de hoja verde tales como: las espinacas y el brócoli; esta vitamina es de un gran beneficio para el sistema circulatorio y adicional a eso tiene propiedades antioxidantes que ayudan a la prevención de algunas enfermedades como el párkinson. 
-
-      .col-lg-8.mb-2
-        .titulo-sexto.bg-11.mb-4
-          h5 Figura 1. 
-          span.text-dark Vitaminas en las frutas y verduras 
-
-        figure
-          img.mb-3(src='@/assets/curso/temas/tema1/img_19.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
-          figcaption Nota: Sena (2024)
+          figure
+            img.mb-3(src='@/assets/curso/temas/tema1/img_19.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
+            figcaption Nota: Sena (2024)
 
     Separador
 
