@@ -398,74 +398,74 @@
         .col-lg-10.mb-3
           .row.justify-content-center.align-items-center
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 1
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
+                  .h2 01
                 p La indumentaria a utilizar debe ser de color claro, el overol debe tener cremalleras o cierres y el delantal debe ir por encima del uniforme.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 2
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
+                  .h2 02
                 p El manipulador de alimentos no deberá salir del sitio de trabajo con el delantal y tampoco ingresar con este puesto.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 3
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
+                  .h2 03
                 p Antes de ingresar a la planta de transformación y después de cada labor diferente al proceso, el operario debe lavarse las manos con agua y jabón.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 4
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
+                  .h2 04
                 p Los operarios (as) deben mantener el cabello recogido y cubierto con mallas, además los hombres no deben dejarse barba.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 5
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
+                  .h2 05
                 p No se debe usar maquillaje por parte de las operarias.
       
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 6
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
+                  .h2 06
                 p Los operarios (as) no deben usar accesorios como anillos, cadenas, relojes y aretes.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 7
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
+                  .h2 07
                 p Cuando se manipulan alimentos es necesario el uso de tapabocas.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 8
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
+                  .h2 08
                 p Los operarios que presenten síntomas de enfermedad o cortes en la piel no deben manipular alimentos.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
-                  .h2 9
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
+                  .h2 09
                 p En el área de procesamiento no se debe fumar o comer porque esto puede contaminar los alimentos.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 10
                 p El calzado usado por el manipulador debe ser de un material resistente e impermeable.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
+              .tarjeta-numerada.tarjeta_bg-02.p-2
+                .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 11
                 p Se deben usar guantes en perfectas condiciones, sin roturas ni imperfecciones.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.color-primario.p-2
-                .tarjeta-numerada__numero
+              .tarjeta-numerada.tarjeta_bg-01.p-2
+                .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 12
                 p Los visitantes deben cumplir con todos los requisitos antes mencionados
       
@@ -552,7 +552,38 @@
 
       .col-md-12.col-lg-12.mb-3
         p En la limpieza y desinfección de equipos se debe disponer de agua potable y tener en cuenta los siguientes ítems:
+      
+      .col-lg-10.mb-2
+        .row.justify-content-center
+          .col-lg-2.mb-2
+            .tarjeta-avatar              
+              img.img-t(src='@/assets/curso/temas/tema3/img_39.svg' alt='AvatarTop')
+              .tarjeta.tarjeta_bg-03
+                p.p-3.pt-4.mb-3.text-center.text-small Determinar el área o equipos que se quieren limpiar. 
+          
+          .col-lg-2.mb-2
+            .tarjeta-avatar
+              img.img-t(src='@/assets/curso/temas/tema3/img_40.svg' alt='AvatarTop')
+              .tarjeta.tarjeta_bg-04
+                p.p-3.pt-4.mb-3.text-center.text-small Seleccionar los equipos de limpieza.
+          
+          .col-lg-2.mb-2
+            .tarjeta-avatar
+              img.img-t(src='@/assets/curso/temas/tema3/img_41.svg' alt='AvatarTop')
+              .tarjeta.tarjeta_bg-03
+                p.p-3.pt-4.mb-3.text-center.text-small Establecer la calidad de agua a utilizar.
+          .col-lg-2.mb-2
 
+            .tarjeta-avatar
+              img.img-t(src='@/assets/curso/temas/tema3/img_42.svg' alt='AvatarTop')
+              .tarjeta.tarjeta_bg-04
+                p.p-3.pt-4.mb-3.text-center.text-small Diferenciar las clases de suciedad y seleccionar el detergente a utilizar.
+          
+          .col-lg-2.mb-2
+            .tarjeta-avatar
+              img.img-t(src='@/assets/curso/temas/tema3/img_43.svg' alt='AvatarTop')
+              .tarjeta.tarjeta_bg-03
+                p.p-3.pt-4.mb-3.text-center.text-small Seleccionar los métodos de limpieza.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .div.mb-3(data-aos="fade-right")
