@@ -403,76 +403,76 @@
         .col-lg-12.mb-3
           p La higiene personal es indispensable cuando se manipulan alimentos, el operario debe tener buenos hábitos de aseo como lavar el cabello, los dientes y las manos, además debe tener las uñas cortas, limpias y sin esmalte. Requisitos importantes a tener en cuenta por parte del manipulador:
 
-        .col-lg-10.mb-3
-          .row.justify-content-center.align-items-center
+        .col-md-12.col-lg-10.mb-3
+          .row.justify-content-center
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 01
                 p La indumentaria a utilizar debe ser de color claro, el overol debe tener cremalleras o cierres y el delantal debe ir por encima del uniforme.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 02
                 p El manipulador de alimentos no deberá salir del sitio de trabajo con el delantal y tampoco ingresar con este puesto.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 03
                 p Antes de ingresar a la planta de transformación y después de cada labor diferente al proceso, el operario debe lavarse las manos con agua y jabón.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 04
                 p Los operarios (as) deben mantener el cabello recogido y cubierto con mallas, además los hombres no deben dejarse barba.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 05
                 p No se debe usar maquillaje por parte de las operarias.
       
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 06
                 p Los operarios (as) no deben usar accesorios como anillos, cadenas, relojes y aretes.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 07
                 p Cuando se manipulan alimentos es necesario el uso de tapabocas.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 08
                 p Los operarios que presenten síntomas de enfermedad o cortes en la piel no deben manipular alimentos.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 09
                 p En el área de procesamiento no se debe fumar o comer porque esto puede contaminar los alimentos.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 10
                 p El calzado usado por el manipulador debe ser de un material resistente e impermeable.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-02.p-2
+              .tarjeta-numerada.tarjeta_bg-02.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-02
                   .h2 11
                 p Se deben usar guantes en perfectas condiciones, sin roturas ni imperfecciones.
             
             .col-md-6.col-lg-6.mb-4
-              .tarjeta-numerada.tarjeta_bg-01.p-2
+              .tarjeta-numerada.tarjeta_bg-01.p-2.h-100
                 .tarjeta-numerada__numero.enumearada-bg-01
                   .h2 12
                 p Los visitantes deben cumplir con todos los requisitos antes mencionados

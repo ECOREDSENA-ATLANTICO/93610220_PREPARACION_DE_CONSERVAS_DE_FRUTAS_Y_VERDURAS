@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'Este curso virtual capacita al aprendiz en la elaboración de conservas de frutas y verduras, garantizando la inocuidad y calidad del producto final. Aprenderá sobre los principios de conservación, los métodos de esterilización, las mejores prácticas de higiene y la correcta manipulación de los alimentos. Se profundizará en la composición de las frutas y verduras, incluyendo el análisis de sustancias bioactivas y sus beneficios para la salud.  Además, se estudiarán los mecanismos de alteración de la calidad poscosecha y cómo prevenirlos para optimizar la duración y calidad de las conservas.  Al finalizar el curso, el aprendiz estará preparado para seleccionar los ingredientes adecuados, elaborar conservas de forma eficiente y aplicar prácticas de higiene y manipulación de alimentos seguras y efectivas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       // {
       //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
