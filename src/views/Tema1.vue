@@ -14,7 +14,7 @@
 
     .bg_img_1
       .row.justify-content-center.align-items-center
-        .col-md-6.col-lg-5.mb-2
+        .col-md-6.col-lg-5.mb-4
           figure
             img(src='@/assets/curso/temas/tema1/img_2.png', alt='Texto que describa la imagen').mx-auto
         .col-lg-7.mb-2
@@ -35,29 +35,29 @@
     #t_1_1.titulo-segundo
       .h2(data-aos="fade-right") 1.1 Diferencia entre frutas y verduras
 
-    .bg_img_2
+    .bg_img_2.mb-3
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12.mb-2
           p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Slos elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
 
-        .col-md-6.col-lg-10.mb-2
+        .col-md-12.col-lg-10.mb-2
           figure
             img(src='@/assets/curso/temas/tema1/img_4.png', alt='Texto que describa la imagen').mx-auto
 
     .row.justify-content-center.align-items-center.mb-0
-      .tarjeta--container.row.mb-5.justify-content-center
-        .col-md-6.col-lg-4.tarjeta.bg-03.p-5
+      .tarjeta--container.mb-2.row.justify-content-center.align-items-center.ordenar_tarjeta_lg
+        .col-md-6.col-lg-5.col-xl-4.tarjeta.bg-03.p-5.pos_1.mb-4
           .row.justify-content-center.mb-4
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema1/img_5.png', alt='Texto que describa la imagen').mx-auto
 
-        .col-md-12.col-lg-5.tarjeta.bg-04.p-5
+        .col-md-12.col-lg-8.col-xl-5.tarjeta.bg-04.p-5.mb-4
           p.mb-2 Su función es la de proteger y dispersar las semillas para la reproducción de la planta. Por lo general, son dulces o ácidas y tienen una textura jugosa. 
           p.mb-2 Las verduras, por otro lado, son otras partes de la planta, como las raíces, los tallos, las hojas y las flores. No tienen la función de reproducir la planta, pero aportan nutrientes esenciales para su crecimiento y desarrollo.
           p Aunque algunas frutas como los tomates, los pepinos o las calabazas se consumen como verduras, en realidad son frutos que se han adaptado para ser utilizados en platos salados. 
 
-        .col-md-5.col-lg-3.tarjeta
+        .col-md-5.col-lg-4.col-xl-3.tarjeta.mb-4.pos_2
           .row.justify-content-center.mb-4
             .col-12
               figure
@@ -124,12 +124,12 @@
         h3.text-center Otras clasificaciones para las frutas son las siguientes: 
 
     .bg_img_3
-      .row.justify-content-center.align-items-center.mb-5
-        .col-md-6.col-lg-4
+      .row.justify-content-center.align-items-center.mb-3
+        .col-md-6.col-lg-4.mb-3
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt").img400.m-auto
-        .col-lg-8
-          SlyderF.custom(columnas="col-lg-6 col-xl-6")
+        .col-lg-8.mb-3
+          SlyderF.custom(columnas="col-md-6 col-lg-6 col-xl-6")
             .tarjeta.tarjeta--slyder.bg-white.p-4
               .row.justify-content-center.align-items-center.mb-3
                 .col-4.mb-3
@@ -229,7 +229,7 @@
       .col-lg-7.mb-2
         p La composición de las frutas y las verduras varía según la clasificación a la que corresponden y el grado de maduración en que se encuentran. Pero a manera general, se puede decir que ambos están compuestos de una serie de elementos básicos que se encuentran en la extensa mayoría de frutas y verduras. A continuación se describen los componentes más importantes que se pueden encontrar tanto en frutas como en las verduras.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0.ordenar_tarjeta_lg
       .col-lg-9.mb-3
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA").color-primario
           .row(titulo="Agua")
@@ -252,7 +252,7 @@
             .col-md-12.mb-4.mb-md-0
               p Las frutas y verduras también poseen proteínas dentro de su composición química, sin embargo su contenido es inferior al 1%, así que no son consideradas como una fuente rica de estas. Las proteínas son compuestos orgánicos a base de carbono y otros elementos como el hidrógeno, el nitrógeno y el oxígeno.¿
 
-      .col-md-5.col-lg-3.mb-3
+      .col-md-5.col-lg-3.mb-3.pos_1
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema1/img_16.png", alt="alt").mx-auto
 
@@ -328,7 +328,7 @@
             p.mb-0 Los minerales son nutrientes inorgánicos muy importantes para los sistemas del cuerpo humano, hacen parte de los órganos y elementos internos de este. Se adquieren a través de la ingesta de una gran serie de alimentos como las frutas y verduras. Los minerales contribuyen en la salud de los seres humanos, manteniendo el funcionando correctamente a las células de todos los órganos de del cuerpo, son responsables de activar la producción de líquidos y otras sustancias como las hormonas y las enzimas, también intervienen en procesos vitales de los seres vivos como la respiración, la digestión y la circulación de la sangre.
     
       .col-lg-11.mb-3
-        h4.text-center Los siguientes minerales hacen parte de los más importantes que necesitan los seres humanos para sobrevivir y se encuentran en diversas frutas y verduras.
+        h5.text-center Los siguientes minerales hacen parte de los más importantes que necesitan los seres humanos para sobrevivir y se encuentran en diversas frutas y verduras.
         
       .col-md-12.col-lg-10.mb-2
         .titulo-sexto.bg-11.mb-4

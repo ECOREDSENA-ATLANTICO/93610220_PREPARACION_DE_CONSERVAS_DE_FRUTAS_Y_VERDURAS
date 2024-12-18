@@ -12,8 +12,8 @@
         .col-md-6.col-lg-5.mb-2
           figure
             img(src='@/assets/curso/temas/tema2/img_1.png', alt='Texto que describa la imagen').mx-auto
-        .col-lg-7.mb-2
-          p.mb-2 Las frutas y verduras son fundamentales en nuestra dieta y tienen un potente impacto en la salud humana, gracias a su contenido diverso y rico en compuestos bioactivos. Estas sustancias, conocidas como fitoquímicos, están presentes en los alimentos de origen vegetal e intervienen en múltiples procesos biológicos, ofreciendo beneficios que van más allá de la nutrición básica. A través de la investigación, se ha demostrado que estos compuestos pueden contribuir a la prevención de enfermedades, mejorar la salud cardiovascular y retrasar el envejecimiento. En este aparte, exploraremos las sustancias bioactivas, los esteroles vegetales y los mecanismos que afectan la calidad de las frutas y verduras, resaltando su papel crucial en la promoción del bienestar y la salud a lo largo de la vida.
+        .col-lg-7
+          p.mb-0 Las frutas y verduras son fundamentales en nuestra dieta y tienen un potente impacto en la salud humana, gracias a su contenido diverso y rico en compuestos bioactivos. Estas sustancias, conocidas como fitoquímicos, están presentes en los alimentos de origen vegetal e intervienen en múltiples procesos biológicos, ofreciendo beneficios que van más allá de la nutrición básica. A través de la investigación, se ha demostrado que estos compuestos pueden contribuir a la prevención de enfermedades, mejorar la salud cardiovascular y retrasar el envejecimiento. En este aparte, exploraremos las sustancias bioactivas, los esteroles vegetales y los mecanismos que afectan la calidad de las frutas y verduras, resaltando su papel crucial en la promoción del bienestar y la salud a lo largo de la vida.
     
     Separador
     
@@ -42,7 +42,7 @@
 
         .col-lg-10.mb-3
           .row.justify-content-center.mb-0
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure
@@ -51,7 +51,7 @@
                   h4.mb-3 Terpenos
                   p.mb-0 Cumplen una función antioxidante, en este grupo están los pigmentos carotenoides. 
 
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure
@@ -60,7 +60,7 @@
                   h4.mb-3 Fenoles
                   p.mb-0 Desempeñan una función antioxidante, entre estos se encuentran a los pigmentos flavonoides presentes en los frutos azulados. 
 
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure

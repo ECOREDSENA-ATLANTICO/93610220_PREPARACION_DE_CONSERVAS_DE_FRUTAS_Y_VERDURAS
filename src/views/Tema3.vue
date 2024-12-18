@@ -13,7 +13,7 @@
           figure
             img(src='@/assets/curso/temas/tema3/img_1.png', alt='Texto que describa la imagen').mx-auto
         .col-lg-8.mb-2
-          p.mb-2 En este aparte del componente temáticos se exploran los ingredientes empleados en la elaboración de conservas, los aspectos higiénicos que deben considerarse al manipular los alimentos y los métodos de limpieza y desinfección, todo con el objetivo de garantizar la producción de conservas de alta calidad que sean seguras y confiables para el consumo de la población en general. Además, el material de estudio facilita la comprensión de estos aspectos, permitiendo que el aprendiz lleve a cabo las actividades de la mejor forma posible.
+          p.mb-4 En este aparte del componente temáticos se exploran los ingredientes empleados en la elaboración de conservas, los aspectos higiénicos que deben considerarse al manipular los alimentos y los métodos de limpieza y desinfección, todo con el objetivo de garantizar la producción de conservas de alta calidad que sean seguras y confiables para el consumo de la población en general. Además, el material de estudio facilita la comprensión de estos aspectos, permitiendo que el aprendiz lleve a cabo las actividades de la mejor forma posible.
         
           .div.mb-3(data-aos="fade-right")
             h3.bgr_3.position-relative Historia de las conservas
@@ -110,6 +110,8 @@
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .tarjeta.p-4.bg-19.h-100
                 .row.justify-content-center.mb-3
+                  p.text-start.text-dorado.text-bold.mb-0
+                    strong 01
                   .col-8.mb-3
                     img(src="@/assets/curso/temas/tema3/img_9.png", alt="alt").img100.m-auto
                   p.text-center.mb-0 En época de abundancia se puede evitar la pérdida de grandes cantidades de frutas y verduras. 
@@ -117,6 +119,8 @@
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .tarjeta.p-4.bg-20.h-100
                 .row.justify-content-center.mb-3
+                  p.text-start.text-azul.text-bold.mb-0
+                    strong 02
                   .col-8.mb-3
                     img(src="@/assets/curso/temas/tema3/img_10.png", alt="alt").img100.m-auto
                   p.text-center.mb-0 Al elaborar conservas se cuenta con alimentos de uso inmediato, especialmente cuando no se tiene el suficiente tiempo para prepararlos.
@@ -124,6 +128,8 @@
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .tarjeta.p-4.bg-19.h-100
                 .row.justify-content-center.mb-3
+                  p.text-start.text-dorado.text-bold.mb-0
+                    strong 03
                   .col-8.mb-3
                     img(src="@/assets/curso/temas/tema3/img_11.png", alt="alt").img100.m-auto
                   p.text-center.mb-0 Se puede contar con alimentos todos los días del año durante un tiempo determinado, aunque no se realice la producción.
@@ -131,6 +137,8 @@
             .col-md-6.col-lg-3.mb-4.mb-lg-0
               .tarjeta.p-4.bg-20.h-100
                 .row.justify-content-center.mb-3
+                  p.text-start.text-azul.text-bold.mb-0
+                    strong 04
                   .col-8.mb-3
                     img(src="@/assets/curso/temas/tema3/img_12.png", alt="alt").img100.m-auto
                   p.text-center.mb-0 Preparar conservas ayuda a darle valor agregado a las materias primas transformadas, lo cual puede servirles a las familias agricultoras a generar ingresos sin salir de casa.
@@ -227,7 +235,7 @@
 
         .col-lg-10.mb-3
           .row.justify-content-center.mb-0
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure
@@ -236,7 +244,7 @@
                   h4.mb-3 Carragenatos 
                   p.mb-0.text-small Estas sustancias son capaces de formar geles y son obtenidas de las algas (<em>chondrus crispus, gigartina, furcellaria,</em> entre otras), además forman geles térmicamente reversibles que tecnológicamente es necesario disolverlos a altas temperaturas, este producto es utilizado en la producción de conservas, sopas, salsas, cervezas, enlatados y postres lácteos.
 
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure
@@ -245,7 +253,7 @@
                   h4.mb-3 Gomas solubles 
                   p.mb-0.text-small Las gomas pueden aportar características tecnológicas a un producto porque tienen la capacidad de darle consistencia a una mezcla.
 
-            .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+            .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left")
                 .crd_hover_txt--img
                   figure
@@ -264,11 +272,11 @@
 
     .bg_img_3
       .row.justify-content-center.align-items-center.mb-5
-        .col-md-6.col-lg-4
+        .col-md-6.col-lg-5.col-xl-4.mb-3
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema3/img_20.png", alt="alt").img400.m-auto
-        .col-lg-8
-          SlyderF.custom(columnas="col-lg-6 col-xl-6")
+        .col-lg-10.col-xl-8.mb-3
+          SlyderF.custom(columnas="col-md-6 col-lg-6 col-xl-6")
             .tarjeta.tarjeta--slyder.p-4.bg-white
               .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
                 .col-4.mb-3
@@ -290,7 +298,7 @@
                 h4.text-center El ácido ascórbico o vitamina C
                 p.text-center.mb-0 Este compuesto previne el pardiamiento enzimático de las frutas que han sido cortadas o molidas, también es adicionado a néctares y jugos para que mantengan el color característico de cada fruto. La combinación de ácido ascórbico y ácido cítrico previenen el oscurecimiento de frutas y verduras.
 
-    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .div.mb-3(data-aos="fade-right")
         h3.bgr_2.position-relative Aditivos 
           img.pst_2(src='@/assets/curso/temas/tema3/img_24.svg', alt='')
@@ -298,7 +306,7 @@
       .col-lg-12.mb-3
         p Los principales aditivos que se incorporan en la preparación de conservas son los siguientes:
 
-      .col-lg-9.mb-3
+      .col-lg-9.mb-1
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA").color-primario
           .row(titulo="Colorantes")
             .col-md-12.mb-4.mb-md-0
@@ -313,7 +321,7 @@
             .col-md-12.mb-4.mb-md-0
               p En este grupo se encuentra el glutámato monosódico que aporta el sabor “umami” a los alimentos, este compuesto es potenciador del sabor de los alimentos como salsas, productos cárnicos y hortalizas.
 
-      .col-md-5.col-lg-3.mb-3
+      .col-md-5.col-lg-3.mb-1
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/temas/tema3/img_25.png", alt="alt").mx-auto
 
@@ -372,7 +380,7 @@
             h3.bgr_2.position-relative Personal manipulador de alimentos 
               img.pst_2(src='@/assets/curso/temas/tema3/img_30.svg', alt='')
               
-          p.mb-4 El personal manipulador debe gozar de buena salud y tener una constancia médica que acredite que este apto para manipular alimentos y que no tiene enfermedades que pueden ser transmitidas a los compañeros de trabajo ni a los alimentos que manipula, este reconocimiento médico debe realizarse cada vez que el jefe lo considere necesario.
+          p.mb-5 El personal manipulador debe gozar de buena salud y tener una constancia médica que acredite que este apto para manipular alimentos y que no tiene enfermedades que pueden ser transmitidas a los compañeros de trabajo ni a los alimentos que manipula, este reconocimiento médico debe realizarse cada vez que el jefe lo considere necesario.
           
           .div.mb-3(data-aos="fade-right")
             h3.bgr_2.position-relative Educación y capacitación
@@ -381,9 +389,9 @@
           p.mb-3 Todas las personas encargadas de la transformación de los alimentos deben capacitarse en Buenas Prácticas de Manufactura y aspectos higiénicos de manipulación, esto con el fin de que los operarios apliquen medidas para evitar que se contaminen y deterioren los alimentos.
           
           .cajon.bg-4.g_18.mb-3
-          .row.mb-4
-            .col-lg-12.p-4.ps-5 
-              p Los operarios deben recibir capacitación acerca de la Resolución 2674 la cual estipula todos los requisitos que se deben llevar a cabo en la fabricación de alimentos, dicha formación debe ser por lo menos de 10 horas al año y estar dirigida por personal con experiencia para impartir esta información.
+            .row.mb-4
+              .col-lg-12.p-4.ps-5 
+                p Los operarios deben recibir capacitación acerca de la Resolución 2674 la cual estipula todos los requisitos que se deben llevar a cabo en la fabricación de alimentos, dicha formación debe ser por lo menos de 10 horas al año y estar dirigida por personal con experiencia para impartir esta información.
       
     .bg_img_6
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
@@ -553,37 +561,37 @@
       .col-md-12.col-lg-12.mb-3
         p En la limpieza y desinfección de equipos se debe disponer de agua potable y tener en cuenta los siguientes ítems:
       
-      .col-lg-10.mb-2
+      .col-lg-12.col-xl-10.mb-2
         .row.justify-content-center
-          .col-lg-2.mb-2
+          .col-md-6.col-lg-2.col-xl-2.mb-2
             .tarjeta-avatar              
               img.img-t(src='@/assets/curso/temas/tema3/img_39.svg' alt='AvatarTop')
               .tarjeta.tarjeta_bg-03
-                p.p-3.pt-4.mb-3.text-center.text-small Determinar el área o equipos que se quieren limpiar. 
+                p.p-3.pt-4.text-center.text-small Determinar el área o equipos que se quieren limpiar. 
           
-          .col-lg-2.mb-2
+          .col-md-6.col-lg-2.col-xl-2.mb-2
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img_40.svg' alt='AvatarTop')
               .tarjeta.tarjeta_bg-04
-                p.p-3.pt-4.mb-3.text-center.text-small Seleccionar los equipos de limpieza.
+                p.p-3.pt-4.text-center.text-small Seleccionar los equipos de limpieza.
           
-          .col-lg-2.mb-2
+          .col-md-6.col-lg-2.col-xl-2.mb-2
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img_41.svg' alt='AvatarTop')
               .tarjeta.tarjeta_bg-03
-                p.p-3.pt-4.mb-3.text-center.text-small Establecer la calidad de agua a utilizar.
-          .col-lg-2.mb-2
+                p.p-3.pt-4.text-center.text-small Establecer la calidad de agua a utilizar.
+          .col-md-6.col-lg-2.col-xl-2.mb-2
 
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img_42.svg' alt='AvatarTop')
               .tarjeta.tarjeta_bg-04
-                p.p-3.pt-4.mb-3.text-center.text-small Diferenciar las clases de suciedad y seleccionar el detergente a utilizar.
+                p.p-3.pt-4.text-center.text-small Diferenciar las clases de suciedad y seleccionar el detergente a utilizar.
           
-          .col-lg-2.mb-2
+          .col-md-6.col-lg-2.col-xl-2.mb-2
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img_43.svg' alt='AvatarTop')
               .tarjeta.tarjeta_bg-03
-                p.p-3.pt-4.mb-3.text-center.text-small Seleccionar los métodos de limpieza.
+                p.p-3.pt-4.text-center.text-small Seleccionar los métodos de limpieza.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
       .div.mb-3(data-aos="fade-right")

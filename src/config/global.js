@@ -35,6 +35,12 @@ export default {
         numero: '1',
         titulo: 'Generalidades de frutas y verduras',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            titulo: '1.1 Diferencia entre frutas y verduras',
+            hash: 't_1_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema2',
@@ -48,6 +54,12 @@ export default {
         titulo:
           'Ingredientes y aspectos higiénicos en la preparación de conservas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            titulo: '3.1 Preparación de conservas',
+            hash: 't_3_1',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -101,8 +113,7 @@ export default {
         'Ingredientes y aspectos higiénicos en la preparación de conservas.',
       referencia: 'Villar, L. (2010). Las Mejores conservas. Ed. Integral.',
       tipo: 'Libro',
-      link:
-        'https://ia800801.us.archive.org/22/items/tirapic/Las_mejores_conservas.pdf',
+      descarga: '/downloads/Las_mejores_conservas.pdf',
     },
     {
       tema:
