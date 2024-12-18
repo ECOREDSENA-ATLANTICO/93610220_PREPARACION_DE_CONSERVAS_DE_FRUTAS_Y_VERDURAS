@@ -276,7 +276,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema3/img_20.png", alt="alt").img400.m-auto
         .col-lg-10.col-xl-8.mb-3
-          SlyderF.custom(columnas="col-md-6 col-lg-6 col-xl-6")
+          .custom(columnas="col-md-6 col-lg-6 col-xl-6")
             .tarjeta.tarjeta--slyder.p-4.bg-white
               .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
                 .col-4.mb-3
