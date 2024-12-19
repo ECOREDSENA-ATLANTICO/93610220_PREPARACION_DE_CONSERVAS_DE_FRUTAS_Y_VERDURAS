@@ -122,7 +122,7 @@
               .tarjeta.bg-01.p-2
                 .row.ordenar_tarjeta.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios fisiologicos: la Relación entre Color y Calidad en Frutas y Verduras:
+                    h3.mb-2 Cambios fisiologicos: la relación entre color y calidad en frutas y verduras:
                     p Los cambios fisiológicos son procesos naturales que ocurren en las frutas y verduras durante su ciclo biológico. Uno de los indicadores más significativos de estos cambios es el color, que refleja el grado de madurez y la calidad del producto. Cuando una fruta o vegetal presenta decoloración u oscurecimiento, se sugiere que ha disminuido su calidad, lo que puede hacerla no apta para el consumo humano.
                   
                   .col-md-8.col-xl-5.mb-3
@@ -142,7 +142,7 @@
               .tarjeta.bg-01.p-2
                 .row.ordenar_tarjeta.justify-content-center.align-items-center.p-3
                   .col-md-12.col-xl-7.mb-4
-                    h3.mb-2 Cambios metabólicos: efectos de la Pérdida de Agua en la Calidad de Frutas y Verduras:
+                    h3.mb-2 Cambios metabólicos: efectos de la pérdida de agua en la calidad de frutas y verduras:
                     p La pérdida de agua tras la cosecha afecta la consistencia del tejido de frutas y verduras, lo que resulta en una disminución de su calidad sensorial. Esto se traduce en cambios negativos en su aroma, brillo y sabor. A medida que se activa el metabolismo de degradación, la velocidad de respiración del producto aumenta considerablemente, lo que lleva a un consumo acelerado de oxígeno. Este proceso provoca la pérdida de azúcares y otros compuestos esenciales que son cruciales para mantener el aroma y el sabor característicos de los alimentos.
                   
                   .col-md-8.col-xl-5.mb-3

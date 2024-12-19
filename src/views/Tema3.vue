@@ -276,7 +276,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/tema3/img_20.png", alt="alt").img400.m-auto
         .col-lg-10.col-xl-8.mb-3
-          .custom(columnas="col-md-6 col-lg-6 col-xl-6")
+          SlyderF.custom(columnas="col-md-6 col-lg-6 col-xl-6")
             .tarjeta.tarjeta--slyder.p-4.bg-white
               .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
                 .col-4.mb-3
@@ -338,7 +338,7 @@
 
         figure
           img.mb-3(src='@/assets/curso/temas/tema3/img_26.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
-          //- figcaption Nota: Sena (2024)
+          figcaption Nota: Sena
 
     .bg_img_13
       .row.justify-content-center.align-items-center.mb-0
@@ -397,7 +397,7 @@
       .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-down")
         .col-lg-12.mb-3
           .div.mb-3(data-aos="fade-right")
-            h3.bgr_2.position-relative Personal manipulador de alimentos 
+            h3.bgr_2.position-relative Higiene personal
               img.pst_2(src='@/assets/curso/temas/tema3/img_32.svg', alt='')
 
         .col-lg-12.mb-3

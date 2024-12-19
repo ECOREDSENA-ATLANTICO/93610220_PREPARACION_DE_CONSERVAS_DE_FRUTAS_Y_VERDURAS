@@ -38,7 +38,7 @@
     .bg_img_2.mb-3
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12.mb-2
-          p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Slos elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
+          p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Los elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
 
         .col-md-12.col-lg-10.mb-2
           figure
@@ -175,7 +175,7 @@
         .col-md-12.col-lg-10.mb-2
           .titulo-sexto.bg-11.mb-4
             h5 Tabla 1. 
-            span.text-dark Clasificación de verduras
+            span.text-dark Clasificación de las verduras
           
           .tabla-a.mb-0
             table
@@ -227,7 +227,7 @@
           img(src='@/assets/curso/temas/tema1/img_15.png', alt='Texto que describa la imagen').mx-auto
 
       .col-lg-7.mb-2
-        p La composición de las frutas y las verduras varía según la clasificación a la que corresponden y el grado de maduración en que se encuentran. Pero a manera general, se puede decir que ambos están compuestos de una serie de elementos básicos que se encuentran en la extensa mayoría de frutas y verduras. A continuación se describen los componentes más importantes que se pueden encontrar tanto en frutas como en las verduras.
+        p La composición de las frutas y las verduras varía según la clasificación a la que corresponden y el grado de maduración en que se encuentran. Pero a manera general, se puede decir que ambos están compuestos de una serie de elementos básicos que se encuentran en la extensa mayoría de frutas y verduras. A continuación, se describen los componentes más importantes que se pueden encontrar tanto en frutas como en las verduras.
 
     .row.justify-content-center.align-items-center.mb-0.ordenar_tarjeta_lg
       .col-lg-9.mb-3
@@ -250,7 +250,7 @@
 
           .row(titulo="Proteínas")
             .col-md-12.mb-4.mb-md-0
-              p Las frutas y verduras también poseen proteínas dentro de su composición química, sin embargo su contenido es inferior al 1%, así que no son consideradas como una fuente rica de estas. Las proteínas son compuestos orgánicos a base de carbono y otros elementos como el hidrógeno, el nitrógeno y el oxígeno.¿
+              p Las frutas y verduras también poseen proteínas dentro de su composición química, sin embargo su contenido es inferior al 1%, así que no son consideradas como una fuente rica de estas. Las proteínas son compuestos orgánicos a base de carbono y otros elementos como el hidrógeno, el nitrógeno y el oxígeno.
 
       .col-md-5.col-lg-3.mb-3.pos_1
         figure(data-aos="zoom-in")
@@ -309,7 +309,7 @@
 
           figure
             img.mb-3(src='@/assets/curso/temas/tema1/img_19.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
-            figcaption Nota: Sena (2024)
+            figcaption Fuente: https://es.pikbest.com//png-images/infograf%C3%ADa-de-alimentos-con-vitamina-arcoiris-degradado-vectorial-libre_9357378.html
 
     Separador
 
