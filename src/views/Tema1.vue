@@ -308,7 +308,7 @@
             span.text-dark Vitaminas en las frutas y verduras 
 
           figure
-            img.mb-3(src='@/assets/curso/temas/tema1/img_19.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
+            img.mb-3(src='@/assets/curso/temas/tema1/img_19.png', alt='Se muestra en la imagen las 12 vitaminas importantes para la salud, correspondientes a las frutas y verduras.').mx-auto.w-75
             figcaption Fuente: https://es.pikbest.com//png-images/infograf%C3%ADa-de-alimentos-con-vitamina-arcoiris-degradado-vectorial-libre_9357378.html
 
     Separador

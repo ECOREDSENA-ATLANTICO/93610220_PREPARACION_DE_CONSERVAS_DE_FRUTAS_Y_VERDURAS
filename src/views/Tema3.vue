@@ -337,7 +337,7 @@
           span.text-dark Partes de un frasco para conservas
 
         figure
-          img.mb-3(src='@/assets/curso/temas/tema3/img_26.png', alt='Proceso de siembra para aguacate.').mx-auto.w-75
+          img.mb-3(src='@/assets/curso/temas/tema3/img_26.png', alt='En la gráfica se muestra las partes de un frasco para conservas: boca, cuello, hombro, cuerpo, fondo, picadura, hilos de rosca, anillo de traspaso, cierre o rosca.').mx-auto.w-75
           figcaption Nota: Sena
 
     .bg_img_13
