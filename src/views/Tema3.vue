@@ -333,7 +333,7 @@
 
       .col-lg-9.mb-3
         .titulo-sexto.bg-11.mb-4
-          h5 Figura 2. 
+          h5 Figura 3. 
           span.text-dark Partes de un frasco para conservas
 
         figure

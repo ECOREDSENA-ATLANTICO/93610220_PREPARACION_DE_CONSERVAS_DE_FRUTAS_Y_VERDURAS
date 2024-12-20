@@ -41,6 +41,10 @@
           p Las frutas y verduras son ambas partes comestibles de las plantas, pero se diferencian en su origen y función dentro del ciclo de vida de la planta. Las frutas se desarrollan a partir de la flor y contienen las semillas de la planta. Los elementos reproductivos de las plantas denominados ovarios, estas contienen semillas en su interior y son de colores llamativos para atraer a los animales que después de comerlas expulsan las semillas al suelo en donde comienza nuevamente el ciclo reproductivo de la planta con su germinación.
 
         .col-md-12.col-lg-10.mb-2
+        
+          .titulo-sexto.bg-11.mb-4
+            h5 Figura 1. 
+            span.text-dark Desarrollo de la planta
           figure
             img(src='@/assets/curso/temas/tema1/img_4.png', alt='Texto que describa la imagen').mx-auto
 
@@ -244,8 +248,8 @@
             .col-md-12.mb-4.mb-md-0
               p Uno de los componentes más importantes de las frutas y verduras es la fibra y en ambos casos resultan ser ricas fuentes de esta, por lo general su contenido es del 2%. Se le llama comúnmente fibra dietética o fibra vegetal a aquella que se encuentra en los alimentos y normalmente la mayor concentración de fibra está presente en la piel o cáscara de la fruta o verdura. 
 
-              p <b>Fibra soluble:</b> Retiene agua y se convierte en gel durante la digestión, lo que retrasa el proceso digestivo y permite una mejor absorción de nutrientes. También ayuda a reducir los niveles de colesterol en la sangre y regula el pH. Un tipo común de fibra soluble es la pectina, que se encuentra en frutas y verduras.
-              p <b>Fibra insoluble:</b> Es la más abundante en los alimentos y acelera el tránsito intestinal, actuando como un laxante. Aumenta el peso de la materia fecal en el intestino.
+              p <b>Fibra soluble:</b> retiene agua y se convierte en gel durante la digestión, lo que retrasa el proceso digestivo y permite una mejor absorción de nutrientes. También ayuda a reducir los niveles de colesterol en la sangre y regula el pH. Un tipo común de fibra soluble es la pectina, que se encuentra en frutas y verduras.
+              p <b>Fibra insoluble:</b> es la más abundante en los alimentos y acelera el tránsito intestinal, actuando como un laxante. Aumenta el peso de la materia fecal en el intestino.
               p La fibra dietética tiene una gran capacidad de absorción de agua y es resistente a la digestión. Aunque no aporta valor nutricional directo, es crucial para la adecuada función de las contracciones musculares en los intestinos.
 
           .row(titulo="Proteínas")
@@ -304,7 +308,7 @@
       .row.justify-content-center.align-items-center.mb-3
         .col-lg-8.mb-2
           .titulo-sexto.bg-11.mb-4
-            h5 Figura 1. 
+            h5 Figura 2. 
             span.text-dark Vitaminas en las frutas y verduras 
 
           figure

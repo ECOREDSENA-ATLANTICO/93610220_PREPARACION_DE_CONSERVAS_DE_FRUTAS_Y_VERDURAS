@@ -249,7 +249,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de Línea de Producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
@@ -265,36 +265,36 @@ export default {
           nombre: 'Jairo Valencia Ebratt',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
     {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'DISEÑO y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
           nombre: 'Jesús Antonio Vecino Valero',
           cargo: 'Diseñador web',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Liborio De Jesús Castañeda Valencia',
           cargo: 'Desarrollador <em>full stack junior</em>',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Carmen Alicia Martinez Torres',
           cargo: 'Animador y Producción audiovisual',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         // {
         //   nombre: 'Nombre',
         //   cargo: 'Actividad Didáctica',
         //   centro:
-        //     'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+        //     'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         // },
       ],
     },
@@ -305,25 +305,25 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial - Regional Atlántico',
+            'Centro Para El Desarrollo Agroecológico y Agroindustrial - Regional Atlántico',
         },
       ],
     },
